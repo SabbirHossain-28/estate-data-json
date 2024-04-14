@@ -7,7 +7,7 @@
     "price": "$10,000,000",
     "status": "sale",
     "area": "50,000 sq ft",
-    "location": "Downtown Business District",
+    "location": "Liberty Square, New York City, NY",
     "facilities": ["Conference rooms", "Parking garage", "24/7 security"],
     "image": "https://i.ibb.co/FxHZSjc/dane-deaner-KLkj7on-c-unsplash.jpg",
     "other_information": {
@@ -23,7 +23,7 @@
     "price": "$5,000/month",
     "status": "rent",
     "area": "2,500 sq ft",
-    "location": "Main Street",
+    "location": "Harbor View, San Francisco, CA,Main Street",
     "facilities": ["Storefront windows", "Restroom", "Storage area"],
     "image": "https://i.ibb.co/hyQkqj2/heidi-fin-2-TLREZi7-BUg-unsplash.jpg",
     "other_information": {
@@ -39,7 +39,7 @@
     "price": "$3,500,000",
     "status": "sale",
     "area": "100,000 sq ft",
-    "location": "Industrial Park",
+    "location": "Summit Industrial Park, Chicago, IL",
     "facilities": ["Loading docks", "Heavy-duty flooring", "Office space"],
     "image": "https://i.ibb.co/WFcrXLc/tommao-wang-jr1-Dd-Ty-U7e-A-unsplash.jpg",
     "other_information": {
@@ -55,7 +55,7 @@
     "price": "$20,000/day",
     "status": "rent",
     "area": "10,000 sq ft",
-    "location": "City Center",
+    "location": "Riverfront Plaza, Nashville, TN",
     "facilities": ["Stage", "Bar area", "VIP lounges"],
     "image": "https://i.ibb.co/HrkGYyn/stefan-k-DDu-S2bl-Oqw-unsplash.jpg",
     "other_information": {
