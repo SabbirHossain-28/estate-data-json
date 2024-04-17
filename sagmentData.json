@@ -1,5 +1,9 @@
 [
   {
+    "animation":"zoom-in-right",
+    "delay":"1000",
+    "duration":"1000",
+    "easing":"ease",
     "estate_title": "Downtown Office Tower",
     "id": "001",
     "segment_name": "Office Building",
@@ -16,6 +20,10 @@
     }
   },
   {
+    "animation":"zoom-in-left",
+    "delay":"1000",
+    "duration":"1000",
+    "easing":"ease",
     "estate_title": "Retail Space on Main Street",
     "id": "002",
     "segment_name": "Retail Space",
@@ -32,6 +40,10 @@
     }
   },
   {
+    "animation":"zoom-in-right",
+    "delay":"1000",
+    "duration":"1000",
+    "easing":"ease",
     "estate_title": "Industrial Warehouse Complex",
     "id": "003",
     "segment_name": "Warehouse",
@@ -48,6 +60,10 @@
     }
   },
   {
+    "animation":"zoom-in-left",
+    "delay":"1000",
+    "duration":"1000",
+    "easing":"ease",
     "estate_title": "Entertainment Venue",
     "id": "004",
     "segment_name": "Entertainment",
